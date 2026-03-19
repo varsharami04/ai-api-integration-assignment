@@ -1,7 +1,7 @@
 import os
 from groq import Groq
 
-client = Groq(api_key=os.getenv("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"))
+client = Groq(api_key=os.getenv("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"))
 
 def query_groq(prompt):
     try:
