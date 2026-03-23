@@ -71,3 +71,16 @@ python huggingface_example.py
 Cohere
 python cohere_example.py
 
+# Screenshots
+
+Groq Output
+![Groq Output](screenshots/groq_output.png)
+
+Ollama Output
+![Ollama Output](screenshots/ollama_output.png)
+
+Hugging Face Output
+![Hugging Face Output](screenshots/huggingface_output.png)
+
+Cohere Output
+![Cohere Output](screenshots/cohere_output.png)
